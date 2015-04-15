@@ -1,3 +1,13 @@
+# File:   test_helpers.R
+# Date:   2015-04-15
+# Author: Rick Wargo
+#
+# Description
+#   Helper functions for the testing harness.
+#
+# Modification History
+# RCW  2015-04-15  New today
+
 
 isIdentity <- function(m) {
   # Determine if the specified matrix is an identity matrix.
